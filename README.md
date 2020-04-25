@@ -1,2 +1,5 @@
 # hello-world
-just a test
+///////////////
+
+Hello everyone !
+Now or never to start with GitHub !

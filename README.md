@@ -1,5 +1,5 @@
 # hello-world
+///////////////
 
-
-Hello everybody !
-I currently take advantage of quarantine to become more familiar with Github
+Hello everyone !
+Now or never to start with GitHub !
